@@ -1,0 +1,5 @@
+{
+  "name": "PGP Inspector",
+  "description": "A professional tool to inspect, parse, and validate PGP public key blocks, with support for identifying experimental Post-Quantum Hybrid keys.",
+  "requestFramePermissions": []
+}
